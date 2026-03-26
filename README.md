@@ -19,6 +19,25 @@
 ## Screenshots
 
 
+### Page 1 — Team Sales and Profit
+![Page 1](Screenshots/01_Team_Sales_Profit.png)
+
+### Page 2 — Variance Sales Per Person
+![Page 2](Screenshots/02_Variance_SalesPerson.png)
+
+### Page 3 — Variance Per %
+![Page 3](Screenshots/03_Variance_Percent.png)
+
+### Page 4 — Monthly Target
+![Page 4](Screenshots/04_Monthly_Target.png)
+
+### Page 5 — Profit Per Box
+![Page 5](Screenshots/05_Profit_Per_Box.png)
+
+### Page 6 — Forecast & Trends 
+![Page 6](Screenshots/06_Forecast_Trend.png)
+
+
 ## Tools Used
 - Power BI Desktop
 - Power Query
